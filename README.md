@@ -1,2 +1,6 @@
 # rudidm-world
-Only for repository me
+
+Hi Guys..
+Saya mencoba menyapa teman-teman melalui aplikasi ini..
+
+Thanks wolrd.
